@@ -1,0 +1,85 @@
+.main-container{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    width: 80%;
+    height: 500px;
+    margin-top: 100px;
+    background:gray;
+    padding-bottom: 30px;
+
+   
+   
+}.creative span{
+    color: #4c00b4;
+   
+}
+
+.new-user span{
+    color: #4c00b4;
+
+}
+
+.creative{
+    margin-top: 10px;
+    font-weight: bold;
+    margin-right: 90%;
+    margin-top: 30px;
+}
+.new-user{
+    margin-left: 70%;
+    
+
+}
+.creative span{
+    color: #4c00b4;
+    
+}
+
+.welcome{
+    margin-left: 100px;
+    margin-top: 90px;
+    font-size: 30px;
+    font-weight: bold;
+   
+}
+.login{
+    margin-left: 13px;
+    color: aqua;
+}
+
+.inputs{
+    margin-top: 10px;
+    margin-left: 160px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.img{
+    position: absolute;
+
+}
+  
+
+ .input input{
+    display: flex;
+    align-items: center;
+    margin: auto;
+    width: 300px;
+    height: 50px;
+    background: #eaeaea;
+    border-color: black;
+   
+    
+}
+
+
+
+
+
+ 
+
+    
+  
+
